@@ -1,0 +1,17 @@
+{
+  "name": "gdeposylka-api",
+  "version": "1.0.0",
+  "description": "Package to work with gdeposylka.ru tracking api",
+  "repository": "burninggoose/gdeposylka-api",
+  "main": "index.js",
+  "keywords": [
+    "tracking",
+    "gdeposylka",
+    "parcels"
+  ],
+  "author": "Gleb Andreev",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
