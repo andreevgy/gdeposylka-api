@@ -1,6 +1,6 @@
 {
   "name": "gdeposylka-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Package to work with gdeposylka.ru tracking api",
   "repository": "burninggoose/gdeposylka-api",
   "main": "index.js",
