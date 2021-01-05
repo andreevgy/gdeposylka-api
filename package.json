@@ -12,6 +12,6 @@
   "author": "Gleb Andreev",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.18.0"
+    "axios": "^0.21.1"
   }
 }
